@@ -1,0 +1,9 @@
+[
+    {
+        "Title": "Harry Potter",
+        "Author": "Xyz",
+        "Year": 2016,
+        "Genre": "Horror",
+        "Read": false
+    }
+]
